@@ -1,4 +1,3 @@
-#README
 sequenceDiagram
     participant browser
     participant server
